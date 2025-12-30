@@ -81,9 +81,9 @@ This approach avoids accidental duplicates while keeping the logic simple, trans
 
 ## Live Demo
 
-👉 *(Add your Vercel deployment link here)*
+👉 *https://issue-board-rust.vercel.app*
 
 
 ## Repository
 
-👉 *(Add your public GitHub repository link here)*
+👉 *https://github.com/SM-GIT-HUB/issue-board*
